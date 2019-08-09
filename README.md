@@ -1,7 +1,7 @@
 # Sentiment_Analysis
 
 ## Overview 
-This is the code for [this](https://youtu.be/3Pzni2yfGUQ) video on Sentiment Analysis for the Data Lit Course by Siraj Raval on Youtube and School of AI. 
+This is the code for  on Sentiment Analysis . 
 
 ## Instructions
 
